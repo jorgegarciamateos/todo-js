@@ -1,6 +1,6 @@
-# Webpack Starter
+# Aplicación TODO
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación para tareas pendientes
 
 ### Notas:
 Recuerden reconstruir los módulos de Node

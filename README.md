@@ -12,3 +12,8 @@ Y para construir el build, recuerden:
 ```
 npm run build
 ```
+
+### Aplicación publicada en GitHub Pages:
+```
+https://jorgegarciamateos.github.io/todo-js/
+```
